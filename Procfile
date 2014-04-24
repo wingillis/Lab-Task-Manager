@@ -1,1 +1,1 @@
-web: gunicorn sciencewatch:app
+web: gunicorn taskSender:app
