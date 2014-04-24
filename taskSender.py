@@ -3,7 +3,7 @@ from flask import Flask, request, redirect, render_template
 
 app = Flask(__name__)
 
-lab_credentials = {'win' : 'bX8wvDRLPaCNIzaAjH'}
+lab_credentials = {'win' : ''} #Your credentials here
 
 boxcar_url = 'https://new.boxcar.io/api/notifications'
 
